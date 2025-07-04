@@ -1,0 +1,12 @@
+body{
+  margin:20px;
+  display: flex;
+ 
+  justify-content: center;
+}
+
+button{
+  padding: 10px 10px;
+  text-align: center
+
+}
